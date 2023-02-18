@@ -4,3 +4,4 @@ seaborn
 prince
 jupyter
 notebook
+nbconvert
