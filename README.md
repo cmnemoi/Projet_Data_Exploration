@@ -12,3 +12,7 @@ conda activate projet_data_exploration
 pip install -r requirements.txt
 ```
 
+Exporter le notebook en tant que pdf (pas essayé, c'est super long) :
+```bash
+jupyter nbconvert --to webpdf --allow-chromium-download Projet_Data_Exploration.ipynb
+```
