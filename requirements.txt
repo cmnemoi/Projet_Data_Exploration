@@ -1,3 +1,5 @@
 pandas
 seaborn
 prince
+jupyter
+notebook
